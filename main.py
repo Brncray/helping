@@ -1,11 +1,7 @@
 import hikari
 import lightbulb
-from tinydb import TinyDB, Query
-import os
+
 token = os.environ['token']
-App = Query()
-db = TinyDB('data.json')
-from threading import Thread
 import miru
 
 

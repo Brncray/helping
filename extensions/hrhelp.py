@@ -1,7 +1,7 @@
 import lightbulb
 import hikari
 import miru
-import webbrowser
+
 
 plugin = lightbulb.Plugin('hrhelp', 'HRhelp')
 
